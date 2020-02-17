@@ -1,6 +1,28 @@
 # i3blocksConfig
 i3blocks configuration for home and work
 
+## February 2020 - Updated.
+
+Some minor changes to the i3blocks configuration, specifically to the
+time and date information.
+
+* Changed to 12 hour clock rather than 24 hour
+
+* Added am/pm information after time
+
+* Added short form of day of the week
+
+* Removed the hyphen between the date and month now that the month is
+  text rather than a number
+
+* Changed month to short text form rather than the number
+
+* Added the four number year
+
+This gives the following format:
+
+10:11pm Mon 17 Feb 2020
+
 ## February 2020.
 
 I have moved the i3blocks configuration into a Git repository, and
